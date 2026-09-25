@@ -1,6 +1,10 @@
 # Diálogo y Desarrollo — Revista Digital
 
 URL de la pagina principal: http://midemo.42web.io/index.php?i=1
+
+
+
+
 URL de la pagina del admin: http://midemo.42web.io/revista_admin/login.php
 
 ## 📝 Descripción

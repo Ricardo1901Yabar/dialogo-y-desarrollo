@@ -1,5 +1,8 @@
 # Diálogo y Desarrollo — Revista Digital
 
+URL de la pagina principal: http://midemo.42web.io/index.php?i=1
+URL de la pagina del admin: http://midemo.42web.io/revista_admin/login.php
+
 ## 📝 Descripción
 
 **Diálogo y Desarrollo** es una plataforma web tipo revista digital orientada a la difusión de contenidos informativos y académicos. Ofrece una interfaz pública interactiva para la lectura de reportajes, visualización de noticias, consulta y descarga de boletines informativos en PDF, reproducción de podcasts, alianzas institucionales y material audiovisual.
